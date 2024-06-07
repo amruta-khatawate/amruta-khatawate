@@ -34,6 +34,11 @@
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="max-width: 100%;">
 </a>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/tkinter-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" style="max-width: 100%;">
+</a>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-khatawate&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amruta-khatawate&theme=dark&hide_border=false)<br/><br/>
