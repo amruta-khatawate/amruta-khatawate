@@ -14,8 +14,9 @@
 - ⚡ **Fun fact:-** When boredom strikes, I transform into a code ninja!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruta-khatawate-8314012aa) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Amruta_1004?t=7x-w0niMapGQzd6sfYqKMA&s=09) &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amrutakhatawate2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruta-khatawate-8314012aa) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Amruta_1004?t=7x-w0niMapGQzd6sfYqKMA&s=09) &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amrutakhatawate2) &nbsp;  [![KackerRank](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.geeksforgeeks.org/user/amrutahk/) &nbsp;
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.geeksforgeeks.org/user/amrutahk/) &nbsp;
 
 
 
