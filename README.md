@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amruta Khatawate</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="sangameshpk-2003" /> </p>
