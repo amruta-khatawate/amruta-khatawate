@@ -46,14 +46,15 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-4274D9?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
 
 ## Backend
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
 
