@@ -20,7 +20,7 @@
 
 - Passionate about Backend Development and scalable application architecture.
 
-- Currently strengthening my knowledge in the Spring ecosystem by building projects and exploring modern backend development.
+- Currently strengthening my knowledge in the Spring ecosystem by building projects.
 
 <br>
 
