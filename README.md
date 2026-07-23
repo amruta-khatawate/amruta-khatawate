@@ -26,7 +26,6 @@
 
 ## Currently Working On
 
--  Spring Boot
 -  Spring Security
 -  Microservices
 -  Data Structures & Algorithms
