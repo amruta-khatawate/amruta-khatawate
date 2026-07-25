@@ -10,7 +10,7 @@
 
 <br>
 
-## About Me   <a href="https://amruta-khatawate.github.io/Amruta_portfolio/"> <b> Resume </b> </a>
+## About Me
 
 - **Bachelor of Computer Applications (BCA) Graduate – 2024**
 
