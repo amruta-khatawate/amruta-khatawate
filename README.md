@@ -8,10 +8,11 @@ Building backend systems with Java & Spring Boot, and frontends with Angular.
 📍 Bengaluru · Open to Java Full Stack / SDE roles · Immediate joiner
 
 ## 🛠 Tech Stack
-**Backend:** Java 8+ · Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven  
+**Backend:** Java 8+ · Spring Boot · Spring Data JPA · Hibernate · REST APIs design · Maven  
 **Frontend:** Angular · TypeScript · JavaScript · HTML5 · CSS3  
 **Database:** PostgreSQL · H2  
-**Tools:** Git · GitHub · GitLab · Postman · IntelliJ / VS Code  
+**Testing:** JUnit, Mockito 
+**Tools:** Git · GitHub · GitLab · Postman · IntelliJ / VS Code · JIRA  
 
 **Worked with at TCS:** AWS S3 (async data retrieval with CompletableFuture)  
 **Currently learning:** Spring Security + JWT · JUnit/Mockito · Docker · GitHub Actions · SQL · AWS fundamentals
@@ -26,7 +27,7 @@ Building backend systems with Java & Spring Boot, and frontends with Angular.
 ## 🚀 Featured Projects
 | Project | Stack | Links |
 |---|---|---|
-| Task Manager | Spring Boot · Angular · JPA | [Backend](https://github.com/amruta-khatawate/task-management-backend) · [Frontend](https://github.com/amruta-khatawate/task-management-dashboard) · Live: _add link_ |
+| Task Manager | Spring Boot · Angular · JPA | [Backend](https://github.com/amruta-khatawate/task-management-backend) · [Frontend](https://github.com/amruta-khatawate/task-management-dashboard) · [Live](https://donezzz.netlify.app/)|
 | Employee Directory | Spring Boot · Angular · PostgreSQL | [Repo](https://github.com/amruta-khatawate/employee-directory) |
 
 
